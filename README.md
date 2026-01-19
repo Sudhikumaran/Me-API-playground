@@ -8,9 +8,9 @@ This application demonstrates backend API development skills by building a RESTf
 
 **Live Demo:**
 
-- Backend API: `[Your Render/Railway URL]`
-- Frontend: `[Your Vercel URL]`
-- Resume: `[Your Resume Link]`
+- Backend API: https://me-api-playground-backend-ucwi.onrender.com/
+- Frontend: https://me-api-playground-olive.vercel.app/
+- Resume:https://drive.google.com/file/d/1fn8gaPyLw6MRVHCLhbB3lh9f7w1Zn2aa/view?usp=sharing
 
 ## 🏗️ Architecture
 
